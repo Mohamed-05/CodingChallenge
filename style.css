@@ -1,0 +1,76 @@
+body{
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+}
+
+#container1{
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+#container2{
+  font-family: sans-serif;
+  padding-left: 10%;
+  padding-bottom: 5%;
+}
+
+
+img{
+  width: 20%;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+h1{
+  color: lime;
+}
+
+.scelte{
+  width: 900px;
+  height: 30px;
+  background-color: lime;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.venditore1{
+  padding-top: 15px;
+}
+
+.carica-arancione{
+  width: 250px;
+  height: 25px;
+  background-color: orange;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.venditore2{
+  padding-top: 15px;
+}
+
+
+.carica-verde{
+  width: 500PX;
+  height: 25PX;
+  background-color: lime;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+.venditore3{
+  padding-top: 15px;
+}
+
+.carica-rosa{
+  width: 100px;
+  height: 25px;
+  background-color: fuchsia;
+  border-radius: 5px 5px 5px 5px;
+}
